@@ -1,0 +1,19 @@
+{
+  "name": "thitis",
+  "version": "1.0.0",
+  "description": "Is the thitis Package ? ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thitisjs/npm-thitis.git"
+  },
+  "author": "Thitis.js",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thitisjs/npm-thitis/issues"
+  },
+  "homepage": "https://github.com/thitisjs/npm-thitis#readme"
+}
